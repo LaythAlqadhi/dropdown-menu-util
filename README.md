@@ -17,7 +17,7 @@ npm install dropdown-menu-util
 To use the `dropDownMenu` function, you'll need to import it into your JavaScript file:
 
 ```javascript
-import { dropDownMenu } from 'dropdown-menu-util';
+import { dropDownMenu } from 'index.js';
 ```
 
 ### Creating a Dropdown Menu
